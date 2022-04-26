@@ -1,4 +1,5 @@
-<img src='https://www.canva.com/design/DADJQOgOfGM/oPSF094HBvA3K2WHQPNOQg/watch?utm_content=DADJQOgOfGM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'/>
+![banner](https://user-images.githubusercontent.com/90973933/165371668-b18b788a-b28c-4865-bc64-5f5ce99a8779.gif)
+
 
 - 👋 Hi, I’m @K4rmu
 - 👀 I’m interested in ...
