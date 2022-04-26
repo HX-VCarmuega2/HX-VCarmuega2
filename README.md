@@ -5,3 +5,5 @@
 
 - 👀 I’m Looking for an open-minded and determined team to work on a world changing project.
 (Tell me about ambitions... 😎)
+
+![icons8-javascript](https://user-images.githubusercontent.com/90973933/165376925-d0b7ba0f-eb00-40ca-81b5-83476839a341.gif)
