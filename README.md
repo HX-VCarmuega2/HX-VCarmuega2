@@ -4,6 +4,7 @@
 - 👋 Hi, I'm Virginia, developer, teacher, and sometimes actress. I love challenges and trying new things. I consider myself a team player and I'm always willing to learn.
 
 - 👀 I’m Looking for an open-minded and determined team to work on a world changing project.
+
 *Tell me about ambitions...* 😎
 
 ![javascript](https://user-images.githubusercontent.com/90973933/165377813-3a217805-0ced-431d-9263-9159663a89e2.png)
