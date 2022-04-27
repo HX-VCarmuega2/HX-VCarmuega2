@@ -1,14 +1,15 @@
 ![banner](https://user-images.githubusercontent.com/90973933/165371668-b18b788a-b28c-4865-bc64-5f5ce99a8779.gif)
 
 
-- 👋 Hi, I'm Virginia, developer, teacher, and sometimes actress. I love challenges and trying new things. I consider myself a team player and I'm always willing to learn.
+- 👋 ¡Hola! Soy Virginia, desarrolladora, profe, y a veces actriz. Me encanta los desafios y probar cosas nuevas. Amo trabajar de manera colaborativa y siempre estoy dispuesta a aprender.
 
-- 👀 I’m Looking for an open-minded and determined team to work on a world changing project.
+- 💞 Aunque me formé como desarrolladora Full Stack, debo admitir que el Front End me ha cautivado y me obsesiona seguir aprendiendo sobre diseño UI/UX, accesibilidad web y nuevos frameworks/librerías.
 
-*Tell me about ambitions...* 😎
+- 👀 Me encantaría formar parte de un equipo de mentes abiertas, guiadas por un fuerte propósito y cooperar en proyectos que busquen cambiar el mundo.*-Hablando de ambiciones...-* 😎
 
-![javascript](https://user-images.githubusercontent.com/90973933/165377813-3a217805-0ced-431d-9263-9159663a89e2.png)
-![css](https://user-images.githubusercontent.com/90973933/165377807-57c39057-34ef-4e8c-98ac-1dbdfe447245.png)
-![html](https://user-images.githubusercontent.com/90973933/165377810-1d6a773e-095b-41c1-b707-f689d7194857.png)
-![react](https://user-images.githubusercontent.com/90973933/165377817-c857c48c-9157-401d-bc23-07c8f7fc1590.png)
-![node](https://user-images.githubusercontent.com/90973933/165377814-58fad4d7-f52e-476c-9abe-581f6ff662e3.png)
+**Habilidades IT:**
+Lenguaje de programación: JavaScript
+Tecnologías Web: HTML5, CSS3, Node Js
+Base de datos: PostgreSQL
+Frameworks/Librerias: ReactJS, Redux, Express
+Control de versiones: Git y GitHub
