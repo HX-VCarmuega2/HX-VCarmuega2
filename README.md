@@ -8,8 +8,8 @@
 👀 Me encantaría formar parte de un equipo de mentes abiertas, guiadas por un fuerte propósito y cooperar en proyectos que busquen cambiar el mundo.*-Hablando de ambiciones...-* 😎
 
 **Habilidades IT:**
--Lenguaje de programación: JavaScript.
--Tecnologías Web: HTML5, CSS3, Node Js.
--Base de datos: PostgreSQL.
--Frameworks/Librerias: ReactJS, Redux, Express.
--Control de versiones: Git y GitHub.
+- Lenguaje de programación: JavaScript.
+- Tecnologías Web: HTML5, CSS3, Node Js.
+- Base de datos: PostgreSQL.
+- Frameworks/Librerias: ReactJS, Redux, Express.
+- Control de versiones: Git y GitHub.
