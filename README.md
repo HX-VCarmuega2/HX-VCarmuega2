@@ -1,15 +1,20 @@
-![banner](https://user-images.githubusercontent.com/90973933/165371668-b18b788a-b28c-4865-bc64-5f5ce99a8779.gif)
+# Hola, soy Virginia 👋
 
+Desarrolladora full-stack con experiencia en desarrollo, QA y operaciones en empresas de tecnología. Me interesa entender cómo funcionan los sistemas por dentro: investigar errores desde la interfaz hasta la base de datos, encontrar la causa y validar la solución.
 
-👋 ¡Hola! Soy Virginia, desarrolladora, profe, y a veces actriz. Me encanta los desafios y probar cosas nuevas. Amo trabajar de manera colaborativa y siempre estoy dispuesta a aprender.
+### Actualmente
+- Desarrollo y QA de una plataforma B2B de salud corporativa (NestJS, PostgreSQL, React, React Native).
+- Aprendiendo Python y frameworks de backend.
+- Experimentando con flujos de desarrollo con agentes de IA sobre Claude Code.
 
-💞 Aunque me formé como desarrolladora Full Stack, debo admitir que el Front End me ha cautivado y me obsesiona seguir aprendiendo sobre diseño UI/UX, accesibilidad web y nuevos frameworks/librerías.
+### Tecnologías
+**Lenguajes:** JavaScript, TypeScript, SQL, Python
+**Backend:** Node.js, NestJS, Express
+**Frontend y móvil:** React, React Native (Expo)
+**Bases de datos:** PostgreSQL, MongoDB
+**Depuración:** pgAdmin, adb/logcat, Swagger, Bash
+**Herramientas:** Git, GitHub, Linear, BrowserStack
+**IA**: Claude Code, API de OpenAI, Spec Driven Development
 
-👀 Me encantaría formar parte de un equipo de mentes abiertas, guiadas por un fuerte propósito y cooperar en proyectos que busquen cambiar el mundo.*-Hablando de ambiciones...-* 😎
-
-**Habilidades IT:**
-- Lenguaje de programación: JavaScript.
-- Tecnologías Web: HTML5, CSS3, Node Js.
-- Base de datos: PostgreSQL.
-- Frameworks/Librerias: ReactJS, Redux, Express.
-- Control de versiones: Git y GitHub.
+### Contacto
+[LinkedIn](https://www.linkedin.com/in/maria-virginia-carmuega) · virginia.carmuega@gmail.com
